@@ -50,7 +50,7 @@ tar_plan(
     .id = 'data'
   ),
 
-  tar_render(report, "docs/index.Rmd")
+  tar_render(report, "index.Rmd")
 
 
 )
