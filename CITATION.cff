@@ -8,7 +8,12 @@ title: >-
 message: Please use this information to cite this software
 type: software
 authors:
-  - given-names: Byron C Jaeger
+  - family-names: Jaeger
+    given-names: Byron C
     email: bjaeger@wakehealth.edu
     affiliation: Wake Forest School of Medicine
     orcid: 'https://orcid.org/0000-0001-7399-2299'
+version: 1.0.0
+doi: 10.5281/zenodo.5655329
+date-released: 2021-11-08
+url: "https://bcjaeger.github.io/coxph_bench/index"
