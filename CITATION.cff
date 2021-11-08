@@ -1,0 +1,14 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Fast linear combinations of predictors with
+  RcppArmadillo
+message: Please use this information to cite this software
+type: software
+authors:
+  - given-names: Byron C Jaeger
+    email: bjaeger@wakehealth.edu
+    affiliation: Wake Forest School of Medicine
+    orcid: 'https://orcid.org/0000-0001-7399-2299'

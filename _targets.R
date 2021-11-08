@@ -13,6 +13,7 @@ tar_plan(
 
   data_pbc = process_pbc_data(),
   data_flchain = process_flchain_data(),
+
   test_pbc = cox_test(data_pbc),
   test_flchain = cox_test(data_flchain),
 
